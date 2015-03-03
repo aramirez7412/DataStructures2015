@@ -1,0 +1,205 @@
+**************************************************
+* Programmed by : Anthony Ramirez
+* Student ID    : 369397
+* CS1D          :Tuesday/Thursday
+* ASSIGNMENT #1 : Lab name
+**************************************************
+*********************************************
+* Vector
+*********************************************
+Inputing strings...
+Paula
+JoAnn
+Jack
+Mark
+Paul
+Eric
+
+Outputing Vector containing strings: 
+Paula JoAnn Jack Mark Paul Eric 
+
+Popping Last Entered: Eric
+Paula JoAnn Jack Mark Paul Inputing floats...
+2788.12
+243.76
+8445.56
+19833.1
+12.4
+
+Outputting Vector containing floats: 
+2788.12 243.76 8445.56 19833.1 12.4 
+
+Popping Last Entered: 12.4
+2788.12 243.76 8445.56 19833.1 Inputing integers...
+98
+88
+88
+123
+8445
+9833
+12
+354
+
+Outputting Vector containing integers: 
+98 88 88 123 8445 9833 12 354 
+
+Popping Last Entered: 354
+98 88 88 123 8445 9833 12 
+
+*********************************************
+* Deque
+*********************************************
+Pushing Paula onto the queue
+Pushing JoAnn onto the Deque
+Pushing Jack onto the Deque
+Pushing Mark onto the Deque
+Pushing Paul onto the Deque
+Pushing Eric onto the Deque
+
+
+String Deque: 
+Data: Paula
+Data: JoAnn
+Data: Jack
+Data: Mark
+Data: Paul
+Data: Eric
+Pushing 2788.12 onto the queue
+Pushing 243.76 onto the Deque
+Pushing 8445.56 onto the Deque
+Pushing 19833.1 onto the Deque
+Pushing 12.4 onto the Deque
+
+
+Float Deque: 
+Data: 2788.12
+Data: 243.76
+Data: 8445.56
+Data: 19833.1
+Data: 12.4
+Pushing 98 onto the queue
+Pushing 88 onto the Deque
+Pushing 88 onto the Deque
+Pushing 123 onto the Deque
+Pushing 8445 onto the Deque
+Pushing 9833 onto the Deque
+Pushing 12 onto the Deque
+Pushing 354 onto the Deque
+
+
+Data: 98
+Data: 88
+Data: 88
+Data: 123
+Data: 8445
+Data: 9833
+Data: 12
+Data: 354
+*********************************************
+* Singly Linked List
+*********************************************
+
+
+String List: 
+
+***Current Linked List***
+Paula
+JoAnn
+Jack
+Mark
+Paul
+Eric
+
+
+Float List: 
+
+***Current Linked List***
+2788.12
+243.76
+8445.56
+19833.1
+12.4
+
+
+
+***Current Linked List***
+98
+88
+88
+123
+8445
+9833
+12
+354
+
+
+
+*********************************************
+* Parenthesis Algorithm
+*********************************************
+
+Array One {2x+3} {7x+8}
+Pushing { onto the queue
+Pushing { onto the queue
+
+*****Match******
+
+Array Two {2x + 5) (6x+4)}
+Pushing { onto the queue
+
+*****NO Match******
+
+Array Three [(8x+5) - 4x[9x+3]]
+Pushing [ onto the queue
+Pushing ( onto the Deque
+Removing [ from the queue
+New _head: (
+New _tail: (
+Pushing [ onto the Deque
+Removing ( from the queue
+New _head: [
+New _tail: [
+
+*****Match******
+
+Array Four {(8x+5) - 5x[9x+3]})
+Pushing [ onto the queue
+Pushing ( onto the Deque
+Removing [ from the queue
+New _head: (
+New _tail: (
+Pushing [ onto the Deque
+Removing ( from the queue
+New _head: [
+New _tail: [
+
+*****NO Match******
+
+Array Five (((8x+5) - x[9x+3])))
+Pushing ( onto the queue
+Pushing ( onto the Deque
+Pushing ( onto the Deque
+Removing ( from the queue
+New _head: (
+New _tail: (
+Pushing [ onto the Deque
+Removing ( from the queue
+New _head: (
+New _tail: [
+
+***** NO Match******
+
+Array Siz {(8x+5) - 9x[9x+3]]
+Pushing { onto the queue
+Pushing ( onto the Deque
+Removing { from the queue
+New _head: (
+New _tail: (
+Pushing [ onto the Deque
+Removing ( from the queue
+New _head: [
+New _tail: [
+Pushing ( onto the queue
+Pushing ( onto the Deque
+
+*****NO Match******

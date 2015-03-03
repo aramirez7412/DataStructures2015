@@ -1,0 +1,62 @@
+**************************************************
+* Programmed by : Anthony Ramirez
+* Student ID    : 369397
+* CS1D          :Tuesday/Thursday
+* ASSIGNMENT #5 : Binary Tree
+**************************************************
+
+Inserting: c
+
+Inserting: d
+
+Inserting: e
+
+Inserting: a
+
+Inserting: b
+*****************************************************************
+* Testing search method: searching for y                        *
+*****************************************************************
+Node was Not found
+
+*****************************************************************
+* Testing search method: searching for a                        *
+*****************************************************************
+Node was Found
+
+*****************************************************************
+* Testing height method                                         *
+*****************************************************************
+Height count: 3
+
+*****************************************************************
+* Testing inorder traversal                                     *
+*****************************************************************
+
+
+Current Data: a
+Nothing to the left
+Data to the right: b
+
+
+Current Data: b
+Nothing to the left
+Nothing to the right
+
+
+
+Current Data: c
+Data to the Left: a
+Data to the right: d
+
+
+Current Data: d
+Nothing to the left
+Data to the right: e
+
+
+Current Data: e
+Nothing to the left
+Nothing to the right
+
+

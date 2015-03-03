@@ -1,0 +1,16 @@
+**************************************************
+* Programmed by : Anthony Ramirez
+* Student ID    : 369397
+* CS1D          :Tuesday/Thursday
+* ASSIGNMENT #1 : Assignment name
+**************************************************
+Is a palindrome: dad
+Is a palindrome: radar
+Is a palindrome: Otto
+Is a palindrome: mom
+Not a palindrome: tigers
+Is a palindrome: A man, a plan, a canal, Panama
+Not a palindrome: Isn't this class cool?
+Is a palindrome: Was it a car or a cat I saw
+Is a palindrome: Sit on a potato pan, Otis
+Not a palindrome: Saddleback is a great place to learn
